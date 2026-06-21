@@ -1,8 +1,8 @@
 # WHATSAPP-UNBANNED-TOOL
 It's a legitimate trusted unbanned tool for unbanning temporary and permanent ban together with those bugged numbers 
-# 📲 WhatsApp Unban Tool by Teddy Tech 
+# 📲 WhatsApp Unban Tool by FLEKO-X Tech 
 
-This tool was coded 100% by Teddy Himself. It is built for users who want to send real unban requests to WhatsApp account. It runs in Termux (Android) or Kali Linux and supports sending both Temporary and Permanent Unban Requests, as well as checking if a WhatsApp number is still active using WhatsApp Business API.
+This tool was coded 100% by Fleko Himself. It is built for users who want to send real unban requests to WhatsApp account. It runs in Termux (Android) or Kali Linux and supports sending both Temporary and Permanent Unban Requests, as well as checking if a WhatsApp number is still active using WhatsApp Business API.
 
 # To install on Termux, run:
 
