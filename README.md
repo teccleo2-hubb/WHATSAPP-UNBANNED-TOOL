@@ -1,3 +1,4 @@
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1100&pause=1000&width=435&lines=Permanent+ban+https%3A%2F%2Fpaystack.shop%2Fpay%2Ftbk0s4o6hq;Temporary+ban+https%3A%2F%2Fpaystack.shop%2Fpay%2Fak130i3nd4" alt="Typing SVG" /></a>
 # WHATSAPP-UNBANNED-TOOL
 It's a legitimate trusted unbanned tool for unbanning temporary and permanent ban together with those bugged numbers 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00FF20&background=37FF0000&width=435&lines=+%F0%9F%93%B2+WhatsApp+Unban+Tool+by+FLEKO-X+Tech+" alt="Typing SVG" /></a>
