@@ -8,9 +8,7 @@ You choose whether permanent or temporary then purchase your tool when done you'
 
 
 
-## 📲 Contact Me Teddy:
 
-[💬 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=FF0000&background=B6F1FF&width=435&lines=Welcome+to+Fleko+WhatsApp+unbanned+tools++" alt="Typing SVG" /></a>
 
 ## Disclaimer: 
