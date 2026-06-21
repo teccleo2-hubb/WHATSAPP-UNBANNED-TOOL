@@ -51,9 +51,8 @@ After login, the tool shows a welcome animation and voice message saying:
 
 ## 📲 Contact Me Teddy:
 
-[💬 Message Me on WhatsApp](https://wa.me/254799963583?text=HI%20Teddy%0APlease%20I%20will%20love%20to%20learn%20more%20about%20Coding.%20How%20can%20I%20start%3F)
+[💬 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=FF0000&background=B6F1FF&width=435&lines=Welcome+to+Fleko+WhatsApp+unbanned+tools++" alt="Typing SVG" /></a>
-Telegram: https://t.me/Teddytech3
 
 ## Disclaimer: 
 
