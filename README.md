@@ -2,9 +2,10 @@
 It's a legitimate trusted unbanned tool for unbanning temporary and permanent ban together with those bugged numbers 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00FF20&background=37FF0000&width=435&lines=+%F0%9F%93%B2+WhatsApp+Unban+Tool+by+FLEKO-X+Tech+" alt="Typing SVG" /></a>
 This tool was coded 100% by Fleko Himself. It is built for users who want to send real unban requests to WhatsApp account. It runs in Termux (Android) or Kali Linux and supports sending both Temporary and Permanent Unban Requests, as well as checking if a WhatsApp number is still active using WhatsApp Business API.
-          <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&width=435&lines=HOW+TO+PURCHASE+TOOLS" alt="Typing SVG" /></a>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=1000&color=D3F75C&background=CEFFE000&width=435&lines=TEMPORARY+UNBAN+%F0%9F%91%89https%3A%2F%2Fpaystack.shop%2Fpay%2Fak130i3nd4" alt="Typing SVG" /></a>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=1000&color=4A23F7&background=CEFFE000&width=435&lines=PERMANENT+UNBAN+%F0%9F%91%89https%3A%2F%2Fpaystack.shop%2Fpay%2Ftbk0s4o6hq" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=1&pause=1000&color=EE00F7&background=FF337300&width=435&lines=Click+of+your+choice+and+purchase+" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=EE00F7&width=435&lines=TEMPORARY+UNBAN+" alt="Typing SVG" /></a>
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=90F73D&width=435&lines=PERMANENT+UNBAN+" alt="Typing SVG" /></a>
 # Set Up instructions 
 You choose whether permanent or temporary then purchase your tool when done you're done you'll be redirected to the app tool to unbanned your numbers 
 
