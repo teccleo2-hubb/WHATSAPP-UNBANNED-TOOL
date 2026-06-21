@@ -45,8 +45,7 @@ python3 unban.py
 ```
 After login, the tool shows a welcome animation and voice message saying:
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4500&pause=1000&color=2FF713&center=true&vCenter=true&width=700&lines=This+Unban+method+was+Coded+By+Teddy+Tech+Himself;It+is+100%25+working+no+Fake+report+it+works+fast+as+possible" alt="Typing SVG" />
+<p [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=FF0000&background=B6F1FF&width=435&lines=Welcome+to+Fleko+WhatsApp+unbanned+tools++)](https://git.io/typing-svg) />
 </p>
 
 
